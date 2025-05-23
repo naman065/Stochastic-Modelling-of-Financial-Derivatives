@@ -1,1 +1,1 @@
-# Stochastic-Modelling-of-Financial-Derivarives
+# Stochastic-Modelling-of-Financial-Derivatives
